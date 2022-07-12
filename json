@@ -1,12 +1,1 @@
-{
-    "arrayColores":[{
-            "rojo":"#f00",
-            "verde":"#0f0",
-            "azul":"#00f",
-            "cyan":"#0ff",
-            "magenta":"#f0f",
-            "amarillo":"#ff0",
-            "negro":"#000"
-        }
-    ]
-}
+[{"Agno":2017,"Periodo":"Trimestre 4","Parametro":"Secuestro","Valor":69,"Estado":"Definitivo","Notas":""},{"Agno":2018,"Periodo":"Trimestre 4","Parametro":"Secuestro","Valor":81,"Estado":"Definitivo","Notas":""},{"Agno":2019,"Periodo":"Trimestre 4","Parametro":"Secuestro","Valor":89,"Estado":"Definitivo","Notas":""},{"Agno":2020,"Periodo":"Trimestre 4","Parametro":"Secuestro","Valor":76,"Estado":"Definitivo","Notas":""},{"Agno":2021,"Periodo":"Trimestre 4","Parametro":"Secuestro","Valor":97,"Estado":"Definitivo","Notas":""}]
