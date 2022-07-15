@@ -1,0 +1,37 @@
+[{
+	"mitadcumple": 4,
+	"alumno": "Emma",
+	"nota": 7.09
+}, {
+	"mitadcumple": 3.5,
+	"alumno": "Iván",
+	"nota": 4
+}, {
+	"mitadcumple": 6,
+	"alumno": "Toni",
+	"nota": 9.5
+}, {
+	"mitadcumple": 2,
+	"alumno": "Sonia",
+	"nota": 7.75
+}, {
+	"mitadcumple": 4.5,
+	"alumno": "Alicia",
+	"nota": 9
+}, {
+	"mitadcumple": 1,
+	"alumno": "Teresa",
+	"nota": 6
+}, {
+	"mitadcumple": 4,
+	"alumno": "Mario",
+	"nota": 2.5
+}, {
+	"mitadcumple": 6,
+	"alumno": "Esteban",
+	"nota": 5.2
+}, {
+	"mitadcumple": 5,
+	"alumno": "Javier",
+	"nota": 10
+}]
