@@ -2,45 +2,45 @@
 	"mitadcumple": 4,
 	"alumno": "Emma",
 	"nota": 7.09,
-	"ranking":21
+	"ranking": 21
 }, {
 	"mitadcumple": 3.5,
 	"alumno": "Iván",
-	"nota": 4
-	"ranking":48
+	"nota": 4,
+	"ranking": 48
 }, {
 	"mitadcumple": 6,
 	"alumno": "Toni",
-	"nota": 9.5
-	"ranking":6
+	"nota": 9.5,
+	"ranking": 6
 }, {
 	"mitadcumple": 2,
 	"alumno": "Sonia",
-	"nota": 7.75
-	"ranking":15
+	"nota": 7.75,
+	"ranking": 15
 }, {
 	"mitadcumple": 4.5,
 	"alumno": "Alicia",
-	"nota": 9
-	"ranking":10
+	"nota": 9,
+	"ranking": 10
 }, {
 	"mitadcumple": 1,
 	"alumno": "Teresa",
-	"nota": 6
-	"ranking":36
+	"nota": 6,
+	"ranking": 36
 }, {
 	"mitadcumple": 4,
 	"alumno": "Mario",
-	"nota": 2.5
-	"ranking":70
+	"nota": 2.5,
+	"ranking": 70
 }, {
 	"mitadcumple": 6,
 	"alumno": "Esteban",
-	"nota": 5.2
-	"ranking":40
+	"nota": 5.2,
+	"ranking": 40
 }, {
 	"mitadcumple": 5,
 	"alumno": "Javier",
-	"nota": 10
-	"ranking":1
+	"nota": 10,
+	"ranking": 1
 }]
